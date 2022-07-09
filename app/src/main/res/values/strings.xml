@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ColorMyViews</string>
+    <string name="box_one">Box 1</string>
+    <string name="box_two">Box 2</string>
+    <string name="box_three">Box 3</string>
+    <string name="box_four">Box 4</string>
+    <string name="box_five">Box 5</string>
+    <string name="box_six">Box 6</string>
+    <string name="box_seven">Box 7</string>
+    <string name="box_eight">Box 8</string>
+    <string name="box_nine">Box 9</string>
+    <string name="box_ten">Box 10</string>
+    <string name="box_eleven">Box 11</string>
+    <string name="box_twelve">Box 12</string>
+    <string name="box_thirteen">Box 13</string>
+    <string name="box_fourteen">Box 14</string>
+    <string name="box_fifteen">Box 15</string>
+    <string name="box_sixteen">Box 16</string>
+    <string name="box_seventeen">Box 17</string>
+    <string name="box_eighteen">Box 18</string>
+    <string name="box_nineteen">Box 19</string>
+    <string name="box_twenty">Box 20</string>
+    <string name="box_twenty_one">Box 21</string>
+    <string name="box_twenty_two">Box 22</string>
+    <string name="box_twenty_three">Box 23</string>
+    <string name="how_to_play">How to play:</string>
+    <string name="tap_the_screen_and_buttons">Tap the screen and buttons</string>
+    <string name="button_yellow">Yellow</string>
+    <string name="button_green">Green</string>
+    <string name="button_red">Red</string>
+</resources>
